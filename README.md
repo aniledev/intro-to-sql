@@ -22,4 +22,4 @@ This repo contains basic PostgreSQL scripts used in various projects to create a
 
 ## Acknowledgements
 
-* [Thinkful Coding Bootcamp](https://www.thinkful.com/)
+* [Thinkful Coding Bootcamp](https://github.com/Thinkful-Ed)
